@@ -1,1 +1,1 @@
-# download-link-extractor-for-firefox-extension-cliget
+Cliget offers a convenient way to download files using wget or curl commands in the terminal. Moreover, it has the ability to extract direct download URLs. This Python program allows you to extract those direct URLs
