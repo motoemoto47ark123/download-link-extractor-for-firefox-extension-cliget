@@ -9,7 +9,7 @@ with open(file_path, "r") as file, open(output_file, "w") as output:
     for line in file:
         matches = re.findall(pattern, line)
         for match in matches:
-            if "" not in match:
+            if "put url here to ignore" not in match:
                 print(match)
                 output.write(match + "\n")
 
